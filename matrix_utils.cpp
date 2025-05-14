@@ -40,7 +40,7 @@ int findFirstOddColumn(const vector<vector<int>>& matrix)
 int matrix_35() 
 {
     string fileName;
-    cout << "Введите имя файла: ";
+    cout << "Enter file name: ";
     cin >> fileName;
 
     // Відкриваємо файл для читання
