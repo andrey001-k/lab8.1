@@ -14,7 +14,7 @@ int main()
             << "1. Array87\n"
             << "2. Matrix35\n"
             << "3. Sort12\n"
-            << "0. Выход\n"
+            << "0. Exit\n"
             << "Your choice: ";
         cin >> choice;
 
