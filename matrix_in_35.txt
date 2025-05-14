@@ -1,0 +1,9 @@
+5 6
+1 2 3 4 5 6
+6 5 7 3 2 1
+10 11 17 13 14 15
+1 2 3 4 5 6
+99 98 97 96 95 94
+Number of the first column with only odd numbers: 3
+
+Number of the first column with only odd numbers: 3
